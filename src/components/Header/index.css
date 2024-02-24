@@ -1,0 +1,38 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #2c364c;
+  background-size: cover;
+}
+
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-items-list {
+  padding: 10px;
+  color: #f8fafc;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  list-style-type: none;
+}
+
+.logout-button {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  background-color: #4f46e5;
+  border-radius: 5px;
+  border: 0px;
+}

@@ -1,0 +1,20 @@
+.skill-items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px;
+  list-style-type: none;
+}
+
+.skill-items > img {
+  height: 40px;
+  width: 100%;
+}
+
+.skill-name {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding: 10px;
+}

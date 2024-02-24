@@ -1,0 +1,63 @@
+.Similar-job-list-container {
+  border: 2px solid;
+  background-color: #272727;
+  margin: 15px;
+  border-radius: 10px;
+  list-style-type: none;
+  padding: 15px;
+}
+
+.job-title {
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.Rating {
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #ffffff;
+  padding-left: 5px;
+}
+
+.location {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-left: 5px;
+}
+
+.Employment-Type {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-left: 5px;
+}
+
+.Brifcase {
+  margin-right: 5px;
+}
+
+.description-heading {
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #ffffff;
+  padding-left: 10px;
+}
+
+.job-description {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding: 10px;
+}
+
+.package {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-right: 30px;
+}
